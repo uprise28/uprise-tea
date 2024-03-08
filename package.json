@@ -1,0 +1,22 @@
+{
+  "name": "uprise-tea",
+  "version": "1.0.0",
+  "description": "uprise-tea-tesnet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uprise28/uprise-tea.git"
+  },
+  "dependencies": {
+    "kirakkk-tea2": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uprise28/uprise-tea/issues"
+  },
+  "homepage": "https://github.com/uprise28/uprise-tea#readme"
+}
